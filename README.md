@@ -40,10 +40,10 @@
 
 ## 🚀 Featured Projects
 
-> 💡 Check my pinned repositories below for my latest work!
-
-[![Datamind](https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-Reddy707&repo=Datamind&theme=tokyonight&hide_border=true)](https://github.com/Shreyas-Reddy707/Datamind)
-[![team-31](https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-Reddy707&repo=team-31&theme=tokyonight&hide_border=true)](https://github.com/Shreyas-Reddy707/team-31)
+| 🔹 Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| [Datamind](https://github.com/Shreyas-Reddy707/Datamind) | Intelligent data analysis & insights tool | Python · Pandas · Matplotlib |
+| [Team-31](https://github.com/Shreyas-Reddy707/team-31) | Collaborative Python project. Real-Time Global Crisis Awareness Dashboard | Python |
 
 ---
 
