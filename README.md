@@ -40,12 +40,10 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Shreyas-Reddy707/Datamind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-Reddy707&repo=Datamind&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Shreyas-Reddy707/team-31">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-Reddy707&repo=team-31&theme=tokyonight&hide_border=true" />
-</a>
+> 💡 Check my pinned repositories below for my latest work!
+
+[![Datamind](https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-Reddy707&repo=Datamind&theme=tokyonight&hide_border=true)](https://github.com/Shreyas-Reddy707/Datamind)
+[![team-31](https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-Reddy707&repo=team-31&theme=tokyonight&hide_border=true)](https://github.com/Shreyas-Reddy707/team-31)
 
 ---
 
