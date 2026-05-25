@@ -29,7 +29,7 @@
 - Built with: `Python` · `Pandas` · `Matplotlib`
 
 ### 🔹 [Team-31](https://github.com/Shreyas-Reddy707/team-31)
-> [Add a one-line description of what this project does]
+> A Real-Time Global Crisis Awareness Dashboard.
 - Built with: `Python`
 
 ---
