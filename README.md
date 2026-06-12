@@ -55,7 +55,7 @@
 |---|---|---|
 | [DataMind](https://github.com/Shreyas-Reddy707/Datamind) | AI-powered multi-agent data intelligence platform with self-learning memory | Python · Streamlit · Ollama · SQLite |
 | [ConstructPulse](https://github.com/Shreyas-Reddy707/Construct_Pulse) | Construction workforce management with QR check-in & analytics | Flutter · FastAPI · PostgreSQL · Firebase |
-| [CrisisPulse](https://github.com/Shreyas-Reddy707/team_31) | Real-time multilingual crisis monitoring with geospatial dashboards | Python · Streamlit · NLP · Folium |
+| [CrisisPulse](https://github.com/Shreyas-Reddy707/team-31) | Real-time multilingual crisis monitoring with geospatial dashboards | Python · Streamlit · NLP · Folium |
 
 ---
 
