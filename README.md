@@ -44,7 +44,11 @@
 |---|---|---|
 | [Datamind](https://github.com/Shreyas-Reddy707/Datamind) | Intelligent data analysis & insights tool | Python · Pandas · Matplotlib |
 | [Team-31](https://github.com/Shreyas-Reddy707/team-31) | Collaborative Python project. Real-Time Global Crisis Awareness Dashboard | Python |
+Construct Pulse
 
+Construction workforce management platform designed to manage worker attendance, workforce records, site operations, and analytics dashboards.
+
+Tech: Flutter • Python • PostgreSQL
 ---
 
 ## 📊 GitHub Stats
