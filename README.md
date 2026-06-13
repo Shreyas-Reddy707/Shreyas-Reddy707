@@ -200,22 +200,6 @@ A geospatial dashboard that ingests, classifies, and visualizes crisis-related e
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas-Reddy707&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shreyas-Reddy707/Shreyas-Reddy707/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
