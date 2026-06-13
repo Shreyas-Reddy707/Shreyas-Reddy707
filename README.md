@@ -1,150 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreyas%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Shreyas%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Application%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Software+Development+Engineer;Multi-Agent+AI+Systems+%7C+Full+Stack;Streamlit+%7C+FastAPI+%7C+Flutter;Open+Source+%7C+Multilingual+NLP" alt="Typing SVG" />
-
-<br/>
-
-![Education](https://img.shields.io/badge/B.Tech_CSE_(AI)-ICFAI_Tech_University-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Hyderabad,_India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Multi-Agent+AI+Systems;Full+Stack+%7C+Python+%7C+Flutter+%7C+FastAPI;Open+Source+%26+Applied+AI" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-reddy-8a7512285)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chemakoorashreyasreddy23@ifheindia.org)
-[![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas-Reddy707)
+![Education](https://img.shields.io/badge/B.Tech-CSE%20(AI)-6C5CE7?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-Hyderabad,%20India-6C5CE7?style=for-the-badge)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-reddy-8a7512285)
+[![Email](https://img.shields.io/badge/Email-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chemakoorashreyasreddy23@ifheindia.org)
+[![GitHub](https://img.shields.io/badge/GitHub-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas-Reddy707)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-Reddy707&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Shreyas-Reddy707?label=Followers&style=for-the-badge&color=7C3AED)
-![Stars](https://img.shields.io/github/stars/Shreyas-Reddy707?label=Stars&style=for-the-badge&color=6366F1)
+![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-Reddy707&label=Profile%20Views&color=8a2be2&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Shreyas-Reddy707?label=Followers&style=for-the-badge&color=8a2be2&logo=github)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📌 About Me
 
-I'm a **B.Tech CSE (AI) student** at **ICFAI Tech University** (2023–2027), focused on engineering AI applications that solve real problems — from multilingual data systems to autonomous multi-agent platforms.
+I'm a **B.Tech CSE (AI)** student at ICFAI Tech University (2023–2027), building production-grade AI applications that go beyond notebooks — multi-agent systems, full-stack platforms, and multilingual NLP tools used by real teams.
 
-My work spans **full-stack development**, **AI/ML system design**, and **product engineering** — building tools end-to-end, from backend architecture to user-facing interfaces. I've led technical teams at scale and shipped applications used in real corpus-collection initiatives.
+My focus is **applied AI engineering**: combining LLM orchestration (Ollama, Hugging Face), data engineering (Pandas, SQL, Plotly), and full-stack development (FastAPI, Flutter, Streamlit) to ship working software, not prototypes.
+
+As **Tech Lead (1 of 10)** at Viswam.ai (Swecha, IIIT Hyderabad), I coordinated work across ~200 interns on large-scale multilingual data collection — giving me real experience in technical leadership and cross-team execution.
 
 **🎯 Open To:**
-- AI/ML Engineering Internships
-- Full Stack Development Roles
-- Open Source Collaboration
-- Research Assistantships in NLP / Multi-Agent Systems
+- AI/ML & Software Engineering Internships
+- Open-source collaboration on AI tooling
+- Research-adjacent applied AI projects
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,dart" />
+<p align="left"><img src="https://skillicons.dev/icons?i=python,java,c,dart&theme=dark" /></p>
 
 **Frontend**
-
-<img src="https://skillicons.dev/icons?i=flutter,html,css" />
+<p align="left"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" /></p>
 
 **Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,sqlite,firebase" />
+<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,firebase&theme=dark" /></p>
 
 **Cloud, DevOps & Tooling**
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,azure,postman&theme=dark" /></p>
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,azure,postman,swagger" />
+**AI / Data Libraries**
 
-**AI / ML Frameworks**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" />
+![Pandas](https://img.shields.io/badge/Pandas-6C5CE7?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6C5CE7?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-6C5CE7?style=flat-square&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-6C5CE7?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-6C5CE7?style=flat-square&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-6C5CE7?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
 ## 🤖 AI / ML Expertise
 
-<div align="center">
-
-| Domain | Applied In | Details |
+| Domain | Proficiency | Details |
 |---|---|---|
-| Multi-Agent Systems | DataMind | Autonomous agents for data analysis with self-learning memory |
-| Multilingual NLP | CrisisPulse, Telugu Archive Portal | Crisis classification, low-resource language corpus pipelines |
-| OCR & Document Intelligence | Telugu Archive Portal | Text/audio/image/video ingestion with metadata validation |
-| LLM Applications | DataMind | Ollama, Hugging Face, Dify integration for AI insights |
-| Data Analysis & Visualization | DataMind, CrisisPulse | Pandas, Plotly, Scikit-Learn, Folium for analytics & mapping |
-
-</div>
+| Multi-Agent Systems | Applied | Designed autonomous agent architecture for DataMind |
+| LLM Integration | Applied | Ollama & Hugging Face for local/inference-based AI features |
+| Multilingual NLP | Applied | Built tools for low-resource language (Telugu) processing |
+| OCR & Document Intelligence | Familiar | Worked on text extraction pipelines for corpus collection |
+| Data Analytics & Visualization | Applied | Pandas, Plotly, Matplotlib for interactive dashboards |
+| Predictive Modeling | Familiar | Scikit-learn for prediction engine components |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 DataMind — AI-Powered Data Intelligence Platform</b></summary>
+<summary><b>🧠 DataMind — AI-Powered Data Intelligence Platform</b></summary>
+
 <br/>
 
-A multi-agent system for autonomous data analysis, featuring self-learning memory, a prediction engine, and interactive analytics with secure authentication.
+A multi-agent system for autonomous data analysis, combining a self-learning memory layer with an AI-driven insights engine.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Python, Streamlit, Ollama, SQLite, Plotly, Pandas, Scikit-Learn |
-| **Architecture** | Multi-agent system with autonomous analysis pipelines |
-| **Key Features** | Self-learning memory, AI-powered insights, prediction engine, secure auth |
-| **Repository** | [github.com/Shreyas-Reddy707/Datamind](https://github.com/Shreyas-Reddy707/Datamind) |
+| **Stack** | Python · Streamlit · Ollama · SQLite · Plotly · Pandas · Scikit-learn |
+| **Scale** | Multi-agent architecture coordinating autonomous analysis tasks |
+| **Performance** | Self-learning memory improves insight relevance across sessions |
+| **Security** | Built-in secure authentication and session management |
+| **Impact** | Lets non-technical users extract AI-driven insights from raw datasets |
+| **Repository** | [Shreyas-Reddy707/Datamind](https://github.com/Shreyas-Reddy707/Datamind) |
 
 </details>
 
 <details>
-<summary><b>🔹 ConstructPulse — Construction Workforce Management Platform</b></summary>
+<summary><b>🏗️ ConstructPulse — Construction Workforce Management Platform</b></summary>
+
 <br/>
 
-An end-to-end workforce management system for construction sites, with real-time tracking and emergency response tools.
+A full-stack mobile + backend platform for managing on-site construction workforce operations.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Flutter, FastAPI, PostgreSQL, Firebase Auth |
-| **Key Features** | QR-based check-in/check-out, emergency mustering, workforce analytics, role-based access |
-| **Repository** | [github.com/Shreyas-Reddy707/Construct_Pulse](https://github.com/Shreyas-Reddy707/Construct_Pulse) |
+| **Stack** | Flutter · FastAPI · PostgreSQL · Firebase Auth |
+| **Scale** | Built for multi-site workforce tracking and management |
+| **Performance** | QR-based check-in/check-out for real-time attendance |
+| **Security** | Role-based access control with Firebase authentication |
+| **Impact** | Improves site safety via emergency mustering and workforce analytics |
+| **Repository** | [Shreyas-Reddy707/Construct_Pulse](https://github.com/Shreyas-Reddy707/Construct_Pulse) |
 
 </details>
 
 <details>
-<summary><b>🔹 CrisisPulse — Real-Time Multilingual Crisis Monitoring Dashboard</b></summary>
+<summary><b>🌍 CrisisPulse — Real-Time Multilingual Crisis Monitoring Dashboard</b></summary>
+
 <br/>
 
-A geospatial dashboard that ingests live data and classifies crisis events using NLP.
+A geospatial dashboard that ingests, classifies, and visualizes crisis-related events from live data sources.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Python, Streamlit, NLP, Folium |
-| **Key Features** | Wikimedia API ingestion, crisis classification, interactive maps, real-time geospatial analytics |
-| **Repository** | [github.com/Shreyas-Reddy707/team_31](https://github.com/Shreyas-Reddy707/team_31) |
-
-</details>
-
-<details>
-<summary><b>🔹 Telugu Archive Portal — Multilingual Corpus Collection Platform</b></summary>
-<br/>
-
-Built during the Viswam.ai internship to support large-scale Telugu language data collection for AI training.
-
-| Aspect | Details |
-|---|---|
-| **Key Features** | Text/audio/image/video uploads, metadata collection, validation pipelines, CSV exports |
-
-</details>
-
-<details>
-<summary><b>🔹 Folk Tale Battle — Gamified Corpus Collection Platform</b></summary>
-<br/>
-
-A gamified platform built to incentivize community corpus contribution.
-
-| Aspect | Details |
-|---|---|
-| **Impact** | 1,200+ folk tales collected, 300+ hours of audio/video corpus data |
+| **Stack** | Python · Streamlit · NLP · Folium · Wikimedia APIs |
+| **Scale** | Real-time multilingual event monitoring across regions |
+| **Performance** | Live data ingestion with NLP-based crisis classification |
+| **Security** | Read-only integration with public data sources |
+| **Impact** | Provides geospatial visibility for faster crisis response |
+| **Repository** | [Shreyas-Reddy707/team-31](https://github.com/Shreyas-Reddy707/team-31) |
 
 </details>
 
@@ -152,27 +133,27 @@ A gamified platform built to incentivize community corpus contribution.
 
 ## 💼 Experience
 
-### AI & Software Development Intern
+**AI & Software Development Intern**
 **Viswam.ai (Swecha) | IIIT Hyderabad**
 
-- Selected as **1 of 10 Tech Leads** coordinating approximately **200 interns**
-- Led large-scale multilingual corpus collection initiatives
+- Selected as **1 of 10 Tech Leads** coordinating approximately 200 interns on large-scale corpus collection initiatives
 - Built multilingual AI applications using Dify, Ollama, Hugging Face, and Streamlit
-- Set up and maintained GitLab CI/CD pipelines
-- Shipped 3 production tools: **Telugu Archive Portal**, **CrisisPulse**, **Folk Tale Battle**
+- Set up and maintained GitLab CI/CD pipelines for team deployments
+- Delivered two additional internal tools: **Telugu Archive Portal** (multilingual corpus collection with validation pipelines) and **Folk Tale Battle** (gamified corpus collection)
 
-`Leadership` `NLP` `CI/CD` `Streamlit` `Ollama` `Hugging Face`
+`Leadership` `Multilingual NLP` `Streamlit` `GitLab CI/CD` `Ollama` `Hugging Face`
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| Tech Lead — Viswam.ai (Swecha) | Selected as 1 of 10 leads coordinating ~200 interns at IIIT Hyderabad |
-| Folk Tale Battle | Contributed to 1,200+ folk tales and 300+ hours of audio/video corpus |
+| Tech Lead (1 of 10) | Coordinated ~200 interns at Viswam.ai (Swecha, IIIT Hyderabad) |
+| Folk Tale Battle Initiative | Helped collect 1,200+ folk tales and 300+ hours of audio/video corpus |
+| Production Tools Shipped | Delivered 3 internal tools during internship (Telugu Archive Portal, CrisisPulse, Folk Tale Battle) |
 
 </div>
 
@@ -180,19 +161,19 @@ A gamified platform built to incentivize community corpus contribution.
 
 ## 📜 Certifications
 
-**Microsoft**
-![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AI Skills Passport](https://img.shields.io/badge/EY_%26_Microsoft-AI_Skills_Passport-6366F1?style=for-the-badge&logo=microsoft&logoColor=white)
+**Microsoft / Azure**
+![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-6C5CE7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![EY & Microsoft AI Skills Passport](https://img.shields.io/badge/AI%20Skills%20Passport-6C5CE7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **NVIDIA**
-![Prompt Engineering](https://img.shields.io/badge/NVIDIA-Prompt_Engineering-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C5CE7?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **IBM**
-![Cybersecurity Fundamentals](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-4F46E5?style=for-the-badge&logo=ibm&logoColor=white)
-![Digital Literacy](https://img.shields.io/badge/IBM-Digital_Literacy-4F46E5?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Fundamentals-6C5CE7?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Digital Literacy](https://img.shields.io/badge/Digital%20Literacy-6C5CE7?style=for-the-badge&logo=ibm&logoColor=white)
 
 **Infosys**
-![Blockchain Fundamentals](https://img.shields.io/badge/Infosys-Blockchain_Fundamentals-8B5CF6?style=for-the-badge&logo=infosys&logoColor=white)
+![Infosys Blockchain](https://img.shields.io/badge/Blockchain%20Fundamentals-6C5CE7?style=for-the-badge&logo=infosys&logoColor=white)
 
 ---
 
@@ -200,21 +181,21 @@ A gamified platform built to incentivize community corpus contribution.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Reddy707&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Shreyas-Reddy707&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Reddy707&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Shreyas-Reddy707&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Reddy707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Reddy707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2" width="48%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyas-Reddy707&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyas-Reddy707&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
@@ -222,9 +203,7 @@ A gamified platform built to incentivize community corpus contribution.
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas-Reddy707&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas-Reddy707&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8a2be2&line=8a2be2&point=ffffff" width="100%" />
 </div>
 
 ---
@@ -232,9 +211,7 @@ A gamified platform built to incentivize community corpus contribution.
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Shreyas-Reddy707/Shreyas-Reddy707/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 </div>
 
 ---
@@ -242,31 +219,21 @@ A gamified platform built to incentivize community corpus contribution.
 ## 🎯 Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - LLM Application Development
-    - Multilingual NLP & OCR Pipelines
-    - Advanced Multi-Agent Architectures
-  building:
-    - DataMind (AI Data Intelligence Platform)
-  exploring:
-    - Production-grade AI Agent Orchestration
-    - Open Source AI Tooling
-  open_to:
-    - AI/ML Internships
-    - Full Stack Engineering Roles
-    - Open Source Collaboration
+currently_building: "DataMind — Multi-Agent AI Data Intelligence Platform"
+learning: ["LLM Orchestration", "Multilingual NLP", "OCR Pipelines"]
+exploring: ["Agentic Workflows", "Vector Databases", "RAG Systems"]
+open_to: ["AI/ML Internships", "Open Source Collaboration", "Full Stack Projects"]
 ```
 
 ---
 
-## 📬 Connect
+## 🤝 Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chemakoorashreyasreddy23@ifheindia.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-reddy-8a7512285)
-[![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas-Reddy707)
+[![Gmail](https://img.shields.io/badge/Gmail-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chemakoorashreyasreddy23@ifheindia.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-reddy-8a7512285)
+[![GitHub](https://img.shields.io/badge/GitHub-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas-Reddy707)
 
 </div>
 
@@ -274,8 +241,8 @@ current_focus:
 
 <div align="center">
 
-<i>"Build things. Break things. Learn everything."</i>
+<i>"Build systems that think. Ship code that works."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
